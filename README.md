@@ -58,3 +58,13 @@ Here are some commonly asked questions and their corresponding answers:
 
 - What models were used for testing?
   - In the demonstration video, two YOLOv5 models
+
+ were used. The first model was trained on car detection, and the second model used the COCO dataset as a base model.
+
+- What happens if the settings are configured incorrectly when adding a model?
+  - If the number of class labels or the input image size is set incorrectly, the bounding boxes may not be detected properly.
+
+- Where can the app be obtained?
+  - The app can be found in the following repository: [flutter_objectdetectionBypytorch](https://github.com/rage147-OwO/flutter_objectdetectionBypytorch)
+
+For more information and detailed instructions, please refer to the repository.
