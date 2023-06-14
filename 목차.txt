@@ -1,0 +1,22 @@
+Flutter 앱을 활용한 Object Detection : 청각장애인의 안전한 
+자전거 운행을 위한 후방 감지 시스템이야
+
+1. 프로젝트 배경 및 필요성
+1.1 기획 배경
+1.2 프로젝트의 목적
+1.3 프로젝트 추진 일정
+1.4 개발 환경
+1.5 팀 구성원 역할
+
+2. 기술개요
+2.1 YOLOv5
+2.2 DPM, R-CNN
+2.3 YOLO
+2.4 YOLO Series
+2.5 YOLOv4
+2.6 YOLOv5
+2.7 Flutter
+2.8 TensorFlow Lite
+
+3. 시스템 설계
+3.1 데이터흐름
